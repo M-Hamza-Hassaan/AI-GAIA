@@ -4,7 +4,7 @@
 **Requests** is used to fetch real-time data from external services, such as route calculations and potentially external APIs.
 
 
-**Folium and Pandas** are employed to visualize data on maps and handle geographic information, like showing dangerous areas and routing.
+**Folium and Pandas** are employed to visualize the data on maps and handle geographic information, like showing dangerous areas and routing.
 
 
 **Groq** provides AI responses to users' emotional or situational inputs, simulating a conversational interaction with the user.
