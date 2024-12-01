@@ -11,4 +11,8 @@
 
 
 **Time** simulates actions like connecting to emergency services with a brief delay.
+ 
  https://lablab.ai/event/gemma-2-ai-challenge/ai-alchemists/gaia
+ 
+![](https://github.com/M-Hamza-Hassaan/AI-GAIA/blob/main/Gemma2Ai.JPG)
+
