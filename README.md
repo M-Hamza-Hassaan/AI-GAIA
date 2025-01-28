@@ -1,5 +1,6 @@
 # Gaia: Women Safety App
-
+![AnotherPage](DangerousArea.JPG)
+![Gemma2 AI](Gemma2Ai.JPG)
 ## Overview
 Gaia is an AI-powered safety application designed to enhance the security and well-being of women. The app provides real-time support through AI simulations, crime data visualization, emergency assistance, and route planning based on safety scores. By leveraging data analytics and machine learning, Gaia empowers users to navigate their surroundings with greater confidence and safety.
 
