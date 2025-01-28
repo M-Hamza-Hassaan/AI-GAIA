@@ -78,6 +78,12 @@ project-directory/
 |-- .env                   # Environment variables file
 ```
 
+## Website
+
+Access the application here: [!Gaia: Women Safety App](https://hackathon-y.streamlit.app/)
+
+
+
 ## Note
 
 - This application is for informational purposes only. The safety scores and insights are generated using available data and may not always reflect real-time conditions.
